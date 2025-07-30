@@ -320,3 +320,14 @@ As operações da GUI em si (renderização de componentes, manipulação de eve
 
 Este projeto demonstra a aplicação de conceitos fundamentais de Análise e Desenvolvimento de Sistemas, incluindo design de banco de dados (SQLite), implementação de operações CRUD, desenvolvimento de algoritmos (detecção de idioma por frequência de caracteres), otimização de desempenho com cache e análise de complexidade algorítmica utilizando a notação Big O. A modularidade do código e a separação de responsabilidades facilitam a manutenção e futuras expansões, como a integração com APIs de tradução reais ou a adição de mais idiomas e funcionalidades.
 
+CONTRIBUIÇÃO
+
+Faça um fork do projeto
+Crie uma branch para sua feature (git checkout -b feature/nova-feature)
+Commit suas mudanças (git commit -am 'Adiciona nova feature')
+Push para a branch (git push origin feature/nova-feature)
+Abra um Pull Request
+
+SUPORTE
+ 
+Para suporte ou dúvidas, abra uma issue no repositório do projeto.
