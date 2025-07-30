@@ -191,7 +191,7 @@ A detecção de idiomas é implementada na classe LanguageDetector e baseia-se n
   
 - Comparação de Distância: Para detectar o idioma de um texto de entrada, suas frequências de caracteres são comparadas com os perfis de idioma carregados. A métrica utilizada é a distância euclidiana entre os vetores de frequência.
 
-4.2. Análise de Complexidade (Big O)
+- Análise de Complexidade (Big O)
 
 •
 calculateCharacterFrequencies(String text):
